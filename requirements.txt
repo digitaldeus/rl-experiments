@@ -1,0 +1,7 @@
+gym
+stable_baselines3[extra]
+pyglet==1.5.27
+box2d
+box2d-kengz
+opencv-python
+tensorboard
